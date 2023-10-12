@@ -1,5 +1,7 @@
-# ERR
-This is a [**Batch File**](https://en.wikipedia.org/wiki/Batch_file) for [**Microsoft Windows**](https://en.wikipedia.org/wiki/Microsoft_Windows) and has been tested on [**Windows 10**](https://en.wikipedia.org/wiki/Windows_10) and [**Windows 11**](https://en.wikipedia.org/wiki/Windows_11)
+# ERR 
+* This is a [**Batch File**](https://en.wikipedia.org/wiki/Batch_file) that finds the [**Error Message Text**](https://en.wikipedia.org/wiki/Error_message) from an [**Error Code**](https://en.wikipedia.org/wiki/Error_code)
+* Made for [**Microsoft Windows**](https://en.wikipedia.org/wiki/Microsoft_Windows)
+* And has been tested on [**Windows 10**](https://en.wikipedia.org/wiki/Windows_10) and [**Windows 11**](https://en.wikipedia.org/wiki/Windows_11)
 
 # Download
 
