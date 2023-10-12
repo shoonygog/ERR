@@ -12,4 +12,8 @@ for /f "skip=1 tokens=*" %%A in ('certutil -error %error_code%') do (
     set "certutil=!line:*CertUtil: =!"
     echo !certutil:*-error =!
 )
-pause
+
+if "%1"=="" (
+    echo.
+    pause
+)
